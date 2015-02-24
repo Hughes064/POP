@@ -1,0 +1,37 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing: border-box;
+}
+
+.wrapper {
+	text-align: center;
+	background-color: }
+
+h1 {
+	font-family: 'Bitter', serif;
+	font-size: 190px;
+}
+
+p {
+	font-size: 26px;
+}
+img {
+	width: 280px;
+	height: 280px;
+	display: inline-block;
+	margin-top: 25px;
+	margin-right: 25px;
+}
+
+button {
+	margin-top: 25px;
+	margin-bottom: 25px;
+	border: 1px solid #F8C0C8;
+	background-color: #f8c0c8;
+	padding: 45px;
+	border-radius: 40px;
+	font-size: 36px;
+	font-family: 'Bitter', serif;
+	color: #FF7632;
+}
